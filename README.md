@@ -134,16 +134,6 @@ Page 1: Complaints Overview
 Page 2: Company Performance Insights
 <img width="1755" height="985" alt="image" src="https://github.com/user-attachments/assets/e4dc1722-09fe-4afe-a201-31acbc19e9b8" />
 
-Filter Pane: 
+Filter Pane:
+
 <img width="418" height="845" alt="image" src="https://github.com/user-attachments/assets/d0c790c2-184e-4def-8b04-286821ca143c" />
-
-
----
-
-
-
-
-## 👩‍💻 Author  
-**Crystal Andrea Dsouza**  
-Bachelor of Accounting and Finance (BAF), St. Xavier’s College, Mumbai  
-Power BI | Excel | ZoomCharts | Data Visualization Enthusiast  
