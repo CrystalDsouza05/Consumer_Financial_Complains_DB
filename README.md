@@ -135,6 +135,10 @@ Page 1: Complaints Overview
 Page 2: Company Performance Insights
 <img width="1755" height="985" alt="image" src="https://github.com/user-attachments/assets/e4dc1722-09fe-4afe-a201-31acbc19e9b8" />
 
+Data Model: 
+<img width="1611" height="714" alt="image" src="https://github.com/user-attachments/assets/83027534-a712-45b0-a6f4-c374d60e9f94" />
+
+
 Filter Pane:
 
 <img width="418" height="845" alt="image" src="https://github.com/user-attachments/assets/d0c790c2-184e-4def-8b04-286821ca143c" />
