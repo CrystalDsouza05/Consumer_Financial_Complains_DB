@@ -3,7 +3,7 @@
 
 **Author:** Crystal Andrea Dsouza  
 
-**Dashboard Link:** Coming Soon...
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzk2YTA5YWMtZGRmMi00ZjA0LWI1YWYtZmIyODJkZTdlMDU0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 ---
 
 ## 📖 Project Overview  
